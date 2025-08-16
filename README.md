@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jai Bhavani Water Purification</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header {
+      background: #0077cc;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #005fa3;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px;
+    }
+    .btn {
+      display: inline-block;
+      padding: 10px 15px;
+      margin: 10px 5px;
+      background: #0077cc;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    footer {
+      background: #333;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Jai Bhavani Water Purification</h1>
+    <p>"Pure Water, Healthy Life"</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Welcome to Jai Bhavani Water Purification Sales & Services. 
+       We provide safe and clean drinking water through high-quality purifiers,
+       reliable installation, and maintenance services.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>✅ Water Purifier Sales</li>
+      <li>✅ Installation Service</li>
+      <li>✅ Filter Replacement</li>
+      <li>✅ Repairs & Annual Maintenance</li>
+    </ul>
+    <a href="tel:+91XXXXXXXXXX" class="btn">📞 Call Now</a>
+    <a href="https://wa.me/91XXXXXXXXXX" class="btn">💬 WhatsApp</a>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>📍 Address: Your Shop Address Here</p>
+    <p>📞 Phone: +91 XXXXX XXXXX</p>
+    <p>📧 Email: yourmail@example.com</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Jai Bhavani Water Purification. All Rights Reserved.</p>
+  </footer>
+
+</body>
+</html>
